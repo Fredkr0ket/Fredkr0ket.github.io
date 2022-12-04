@@ -1,0 +1,39 @@
+html {
+  background-image: url('bg1.jpg');
+}
+body {
+  display: flex;
+  direction: row;
+  align-items: center;
+  min-height: 98vh;
+  max-height: 98vh;
+}
+
+#sintimg {
+  margin-left: -10px;
+}
+
+#gedicht {
+  margin-left: 15%;
+  text-align: center;
+  width: 50%;
+}
+
+#embed {
+  float: right;
+  margin-top:-60px;
+  margin-right: -10px;
+  background:#00000000;
+}
+
+h1 {
+  color: #ffba30;
+  font-size: 46px;
+}
+
+p {
+  color: #ffba30;
+  font-weight: bold;
+  font-size: 25px;
+  font-family: monospace;
+}
